@@ -1,1 +1,1 @@
-# Mini-Project--Algorithm-Visualizer
+# Mini Project--Algorithm Visualizer
