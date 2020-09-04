@@ -15,7 +15,6 @@ export default class SortingVisualizer extends React.Component {
   componentDidMount() {
     this.reset();
   }
-
   reset() {
     const arr = [];
     for (let i = 0; i < 100; i++) {
