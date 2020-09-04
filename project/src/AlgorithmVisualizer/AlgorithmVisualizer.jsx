@@ -5,8 +5,7 @@ return Math.floor(Math.random() * (max - min + 1) + min);
 export default class SortingVisualizer extends React.Component {
   constructor(props) {
     super(props);
-
-    this.state = {
+  this.state = {
       arr: [],
     };
   }
