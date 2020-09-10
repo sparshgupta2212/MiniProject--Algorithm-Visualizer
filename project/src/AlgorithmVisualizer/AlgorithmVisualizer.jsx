@@ -10,7 +10,6 @@ export default class SortingVisualizer extends React.Component {
       arr: [],
     };
   }
-  
   componentDidMount() {
     this.reset();
   }
